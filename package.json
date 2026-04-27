@@ -1,0 +1,11 @@
+{
+  "name": "devops-tests",
+  "version": "1.0.0",
+  "description": "Projeto de testes unitários",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
